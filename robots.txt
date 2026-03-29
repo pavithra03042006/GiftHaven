@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://pavithra03042006.github.io/GiftHaven/sitemap.xml
